@@ -43,7 +43,7 @@ Me chamo Mateus von Randow, tenho 20 anos e sou natural de Minas Gerais. Conclu√
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Mateus-vonRandow&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -51,8 +51,8 @@ Me chamo Mateus von Randow, tenho 20 anos e sou natural de Minas Gerais. Conclu√
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-vonRandow&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-vonRandow&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
 </p>
