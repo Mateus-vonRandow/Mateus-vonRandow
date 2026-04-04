@@ -10,16 +10,3 @@ Me chamo Mateus von Randow, tenho 20 anos e sou natural de Minas Gerais. Conclu�
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mateus-vonRandow&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 📊 Estatísticas
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
