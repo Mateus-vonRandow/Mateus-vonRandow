@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo Mateus von Randow, tenho 20 anos e sou natural de Minas Gerais. Concluí o ensino médio no CTPM. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFACIG. 
+Me chamo Mateus von Randow, tenho 21 anos e sou natural de Minas Gerais. Concluí o ensino médio no CTPM. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFACIG. 
 
 
 ## 🌐 Socials:
