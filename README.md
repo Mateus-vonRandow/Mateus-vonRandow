@@ -10,6 +10,9 @@ Me chamo Mateus von Randow, tenho 21 anos e sou natural de Minas Gerais. ConcluÃ
 
 # ðŸ“Š GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Mateus-vonRandow&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
+
+---
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mateus-vonRandow&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
